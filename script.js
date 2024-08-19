@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
     const complexitySelect = document.getElementById("complexitySelect");
-    const exampleSelect = document.getElementById("exampleSelect");
+    const exampleSelect = document.getElementById("exampleSelect"); 
     const codeDisplay = document.getElementById("codeDisplay");
     const complexityVisualization = document.getElementById("complexityVisualization");
     const prevButton = document.getElementById("prevButton");
