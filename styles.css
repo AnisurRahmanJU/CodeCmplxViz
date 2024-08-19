@@ -1,0 +1,29 @@
+body {
+    background-color: #f8f9fa;
+}
+
+#codeDisplay {
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    padding: 15px;
+    border-radius: 5px;
+    font-family: monospace;
+}
+
+.code-line {
+    padding: 5px;
+    margin-bottom: 2px;
+    border-left: 4px solid transparent;
+}
+
+.highlight {
+    border-left: 4px solid #007bff;
+    background-color: #e9ecef;
+}
+
+#complexityVisualization {
+    padding: 15px;
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    border-radius: 5px;
+}
